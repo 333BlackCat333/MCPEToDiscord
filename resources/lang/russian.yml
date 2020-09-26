@@ -1,0 +1,37 @@
+---
+disabled: 'Плагин выключен'#translated by BlackCatDeveloper. My server BlackPixel 95.217.71.75:19074
+disabled_config: 'Плагин отключен, как указано в config.yml'
+disabled_corrupt: 'Плагин отключен, так как config.yml поврежден'
+disabled_error: 'Плагин отключен, поскольку произошла серьезная ошибка'
+
+enabled: 'Плагин работает'
+enabled_incomplete: 'Конфигурация плагина является неполной / поврежденной, убедитесь, что все значения верны, а ссылка на веб-крючок действительна '
+enabled_debug: 'Плагин включен + отладка включена'
+enabled_defualtlang: 'Неверный язык. Проверьте config.yml, по умолчанию установлен английский язык '
+
+pureperms_good: 'Pureperms был обнаружен и загружен !'
+pureperms_bad: "Pureperms не обнаружен, связь с {nickname} и {rank} не будет работать."
+
+factions_good: 'FactionsPro был обнаружен загружен !'
+factions_bad: "FactionsPro не обнаружен, связь с {faction} и {fac_rank} не будет работать."
+
+ingame: 'Команда /discord может использоваться в игре'
+
+success: 'Отлично !'
+already_disabled: 'Плагин выключен'
+already_enabled: 'Плагин включен'
+now_disabled: 'Плагин сейчас выключен'
+now_enabled: 'Плагин сейчас включен'
+
+debug_info_response: 'Все подробности отправлены на консоль !'
+info_note: 'Если вы планируете создать PR или выпуск на github, пожалуйста, предоставьте всю эту информацию.'
+
+no_language: 'Не было сказано ни одного языка, выберите один из следующих:'
+language_already: 'Язык уже используется'
+invalid_language: 'Неверный язык предоставляется.'
+invalid_command: 'Недопустимая команда напишите / discord для помощи '
+args_missing: 'Пожалуйста, предоставьте сообщение для отправки, например  / Discord Send Привет, это сообщение от mcpe '
+command_disabled: 'Команда </discord send> выключена в конфиге'
+send_fail: 'Сообщение об ошибке не удалось отправить, проверьте консоль на полную ошибку.'
+send_success: 'Discord сообщение было отправлено.'
+---
